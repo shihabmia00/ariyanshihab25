@@ -51,7 +51,7 @@ export default function About() {
             <div className="absolute inset-0 bg-accent/20 blur-[100px] rounded-full z-0 opacity-10" />
             <div className="relative z-10 aspect-[4/5] rounded-[2rem] overflow-hidden border border-white/5 glass-dark glow-lg group">
              <img
-                src="/images/ariyanshihab.png"
+                src="/images/IMG_6901.png"
                 alt="Ariyan Shihab | Video Editor & Motion Designer"
                 className="w-full h-full object-cover object-center transition-all duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"
